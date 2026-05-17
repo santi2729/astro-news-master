@@ -1,9 +1,9 @@
 import type { Link } from "../types";
 
 export const SITE = {
-  title: "Astro News",
-  description: "A news website built with Astro",
-  author: "Mohammad Rahmani",
+  title: "The Sport Traveler",
+  description: "Un blog donde se habla de deportes, viajes y tecnología.",
+  author: "Aragol4",
   url: "https://astro-news-six.vercel.app",
   github: "https://github.com/Mrahmani71/astro-news",
   locale: "en-US",
